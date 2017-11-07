@@ -1,0 +1,132 @@
+{
+	"index.html": {
+		"resources": [
+			"css/index.css",
+			"img/Return.jpg",
+			"img/jin_img3.png",
+			"img/More.jpg",
+			"js/zepto.min.js",
+			"img/jin_img4.png",
+			"img/banner1.jpg",
+			"js/sm.min.js",
+			"img/jin_img2.png",
+			"js/sm-extend.min.js",
+			"img/jin_img1.png",
+			"css/reset_app.css",
+			"js/jquery-1.12.0.min.js",
+			"css/sm-extend.min.css",
+			"css/sm.min.css",
+			"market.html"
+		],
+		"refer": [
+			"market.html"
+		]
+	},
+	"market.html": {
+		"resources": [
+			"img/shi_banner1.jpg",
+			"img/Sincerity.png",
+			"js/swiper-3.4.1.min.js",
+			"img/Insured.png",
+			"img/shi_nr1.jpg",
+			"css/swiper-3.4.1.min.css",
+			"js/index.js",
+			"img/Return.jpg",
+			"img/More.jpg",
+			"img/jin_img4.png",
+			"js/sm-extend.min.js",
+			"img/jin_img1.png",
+			"css/reset_app.css",
+			"css/sm.min.css",
+			"css/index.css",
+			"img/jin_img3.png",
+			"js/zepto.min.js",
+			"js/sm.min.js",
+			"img/jin_img2.png",
+			"css/sm-extend.min.css",
+			"js/jquery-1.12.0.min.js",
+			"index.html",
+			"img/shi_nr2.jpg",
+			"img/shi_nr3.jpg",
+			"img/shi_nr4.jpg",
+			"img/shi_nr5.jpg",
+			"img/shop_img3.jpg",
+			"img/shop_tou3.png",
+			"Store_details.html",
+			"img/shop_tou2.png",
+			"img/shop_img2.jpg",
+			"img/shop_img4.jpg",
+			"img/shop_img1.jpg",
+			"img/shop_tou1.jpg",
+			"activity.html"
+		],
+		"refer": [
+			"index.html",
+			"Store_details.html",
+			"activity.html"
+		]
+	},
+	"Store_details.html": {
+		"resources": [
+			"img/details_anxing.png",
+			"img/details_car.png",
+			"img/details_reduce.png",
+			"img/details_xingxing.png",
+			"img/details_plus.png",
+			"img/details_baaner1.jpg",
+			"img/Personal_icon1.png",
+			"img/details_icon3.png",
+			"img/shop_bgimg.jpg",
+			"img/details_icon1.png",
+			"product_details.html",
+			"img/details_banner.jpg",
+			"img/details_icon2.png",
+			"market.html"
+		],
+		"refer": [
+			"product_details.html",
+			"market.html"
+		]
+	},
+	"product_details.html": {
+		"resources": [
+			"Store_details.html"
+		],
+		"refer": [
+			"Store_details.html"
+		]
+	},
+	"Personal_Center.html": {
+		"resources": [
+			"img/Personal_img2.png",
+			"img/Personal_img3.png",
+			"img/Personal_img5.png",
+			"img/Personal_qian.png",
+			"img/Personal_img6.png",
+			"img/Personal_img4.png",
+			"img/Personal_img10.png",
+			"img/Personal_bgimg.jpg",
+			"img/Personal_tou1.png",
+			"img/Personal_img7.png",
+			"img/Personal_img1.png",
+			"img/Personal_img9.png",
+			"img/Personal_img11.png",
+			"img/Personal_img8.png",
+			"activity.html"
+		],
+		"refer": [
+			"activity.html"
+		]
+	},
+	"activity.html": {
+		"resources": [
+			"img/huodong1.jpg",
+			"img/huodong3.jpg",
+			"Personal_Center.html",
+			"img/huodong2.jpg"
+		],
+		"refer": [
+			"Personal_Center.html"
+		]
+	}
+}
